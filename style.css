@@ -1,10 +1,12 @@
 #body{
-    background-color: #192236;
+    margin-left: 300px;
+    background-color: transparent;
+    background-position: 20px;
     border-radius: 20px;
     border: none;
-    color: white;
-    margin-top: 30px;
-    width: 800px;
+    color: black;
+    margin-top: 20px;
+    width: 600px;
     font-weight: 400;
 }
 #button{
@@ -14,8 +16,13 @@
     height: 4opx;
     font-weight: 700;
     font-size: large;
+    
 }
 #icone{
     justify-content: center;
     margin-left: 50px;
+}
+#mainbody{
+    background:url(images/ggggg.jpg);
+    
 }
