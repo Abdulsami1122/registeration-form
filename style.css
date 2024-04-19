@@ -1,14 +1,18 @@
 #body{
     margin-left: 300px;
-    background-color: transparent;
-    background-position: 20px;
+    background-color: #192236;
     border-radius: 20px;
     border: none;
     color: black;
     margin-top: 20px;
     width: 600px;
     font-weight: 400;
+    
 }
+#color{
+    color: #fff;
+}
+
 #button{
     background-color: red;
     width: 150px;
@@ -16,13 +20,13 @@
     height: 4opx;
     font-weight: 700;
     font-size: large;
-    
+    color: white;
 }
 #icone{
     justify-content: center;
     margin-left: 50px;
 }
 #mainbody{
-    background:url(images/ggggg.jpg);
+    
     
 }
